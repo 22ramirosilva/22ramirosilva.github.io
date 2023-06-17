@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.873031e5.css",
+    "main.js": "/static/js/main.8fa88fed.js",
+    "static/js/787.36fc952d.chunk.js": "/static/js/787.36fc952d.chunk.js",
+    "static/media/IMG_3011.jpg": "/static/media/IMG_3011.7c98a5a1dfc5ecb513c2.jpg",
+    "static/media/paginaWaether.png": "/static/media/paginaWaether.c8bf8e099a600ee4dff6.png",
+    "static/media/paginaPeliculas.png": "/static/media/paginaPeliculas.2a17f2f1accdc27719e5.png",
+    "static/media/paginaNexos.png": "/static/media/paginaNexos.79800891e1db93ca3e43.png",
+    "static/media/CV.pdf": "/static/media/CV.7ed75a8cf22029f26302.pdf",
+    "static/media/paginaPokedex.png": "/static/media/paginaPokedex.bb3633ba649786107b4e.png",
+    "static/media/Ramiro.jpg": "/static/media/Ramiro.992384bd9d693469ca8b.jpg",
+    "static/media/github.svg": "/static/media/github.49817034f7e49340f679afd18b8159da.svg",
+    "static/media/cv-file.svg": "/static/media/cv-file.803589125309d5b832f20d1d7af07dfb.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.ede21beee07cf68504ced16b9945e6c2.svg",
+    "static/media/email.svg": "/static/media/email.ba9fd1f8d461d6971fd2d36ae6c7aaac.svg",
+    "static/media/left-arrow.svg": "/static/media/left-arrow.2151a7dde9a8d0c52463163878f34ac4.svg",
+    "index.html": "/index.html",
+    "main.873031e5.css.map": "/static/css/main.873031e5.css.map",
+    "main.8fa88fed.js.map": "/static/js/main.8fa88fed.js.map",
+    "787.36fc952d.chunk.js.map": "/static/js/787.36fc952d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873031e5.css",
+    "static/js/main.8fa88fed.js"
+  ]
+}
